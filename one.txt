@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 welcome to github
+=======
+Hi navya,
+I am srikanth writting this.
+>>>>>>> 9c2820e5da1c604ae7259c7f484633737ed2ed43
